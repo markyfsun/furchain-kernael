@@ -1,0 +1,17 @@
+{
+  "$schema": "https://furchainlabs.github.io/protocol/v1/furchain.schema.json",
+  "version": 1,
+  "id": "019c5cab-d0e5-703a-89f1-1ffeefb90cd3",
+  "owner": "markyfsun",
+  "repo": "furchain-kernael",
+  "defaultBranch": "main",
+  "keys": "keys/keys.json",
+  "characters": [
+    {
+      "id": "019c5cab-d0e5-703a-89f1-206e90b73f2a",
+      "name": "kernael",
+      "display": "Kernael",
+      "path": "characters/kernael"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "https://furchainlabs.github.io/protocol/v1/character.schema.json",
+  "protocolVersion": 1,
+  "id": "019c5cab-d0e5-703a-89f1-206e90b73f2a",
+  "name": "kernael",
+  "display": "Kernael",
+  "revision": 1,
+  "contentRating": {
+    "primary": "safe"
+  },
+  "relations": []
+}
