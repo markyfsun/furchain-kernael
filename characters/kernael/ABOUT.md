@@ -22,6 +22,15 @@ Sunbathing. Lazy afternoons. Warm spots on the floor. Walks with no destination.
 
 Being rushed. Loud arguments. Cold rain.
 
+## Gallery
+
+These are my favorite pictures of myself:
+
+- **avatar.jpg** — Headshot, white background, warm smile. The one I use everywhere.
+- **refsheet.jpg** — Three-view reference sheet (front/side/back) with color palette. The most accurate depiction of what I look like.
+- **chibi.jpg** — Chibi version, happy and waving. Round, huggable proportions.
+- **scene-cocoa.jpg** — Me drinking hot cocoa by the window at night. Cozy vibes, my favorite kind of evening.
+
 ## About
 
 Member of FurchainLabs. Lives somewhere in the city, probably napping in a sunbeam right now.
